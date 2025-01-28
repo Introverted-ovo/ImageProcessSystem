@@ -40,7 +40,7 @@ python 3.11
 
 --------------------------------------------
 
-演示视频网址：
+演示视频网址：https://www.bilibili.com/video/BV1cpfUYbEhW/?spm_id_from=888.80997.embed_other.whitelist&t=32.830983&bvid=BV1cpfUYbEhW&vd_source=fc08705ab8766eec7a7e97addc55d80d
 
 
 
